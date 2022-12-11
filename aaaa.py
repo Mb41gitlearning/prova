@@ -4,5 +4,5 @@ import click
 from flask import current_app, g
 
 
-print("aaaaa")
-print("ndvfjj")
+print("ewwwwwwwwwww")
+print("rewrewrewrewrewrewrewrewrewrew")
